@@ -1,0 +1,9 @@
+[
+  "scripts/test_ABC.py::test_ABCByClass::()::test_a",
+  "scripts/test_ABC.py::test_ABCByClass::()::test_b",
+  "scripts/test_SetupClass.py::test_ABC::()::test_a",
+  "scripts/test_SetupClass.py::test_ABC::()::test_b",
+  "scripts/test_pytest.py::test_a",
+  "scripts/test_pytest.py::test_b",
+  "scripts/test_sample.py::test_answer"
+]
