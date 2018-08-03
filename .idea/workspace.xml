@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b1240a-a36b-4dcb-aa8c-e76cd72bf32d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/#test_setting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/ReadSearchYaml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/WriteSearchYaml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/search_page.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test_SetupClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test_pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_SetupClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_SetupClass.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +57,7 @@
           <entry key="Python Console" value="7" />
           <entry key="dummy" value="1" />
           <entry key="ini" value="136" />
-          <entry key="py" value="908" />
+          <entry key="py" value="926" />
           <entry key="yaml" value="113" />
         </counts>
       </usages-collector>
@@ -76,7 +65,7 @@
         <counts>
           <entry key="Ini" value="136" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="915" />
+          <entry key="Python" value="933" />
           <entry key="YAML" value="113" />
         </counts>
       </usages-collector>
@@ -99,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/test_SetupClass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="260">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -403,7 +392,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17095116" />
@@ -546,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test_SetupClass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="260">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

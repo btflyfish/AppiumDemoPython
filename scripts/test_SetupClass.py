@@ -14,6 +14,7 @@ class test_ABC:
         allure.attach('描述', '我是test_a函数')
         print("------->test_a")
         assert 1
+    #test_b函数应用
     def test_b(self):
         allure.attach('描述', '我是test_b函数')
         print("------->test_b")
